@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect &amp; exact account of all the holy-daies in the yeare, together, with the reasons why they were set apart as festivals by the Church.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74267</idno><idno type="EEBO-CITATION">99867001</idno>
+  <idno type="VID">168992</idno>
+  <idno type="EEBO-PROQUEST">2248515776</idno>
+  
+            <idno type="STC">Wing P1469A</idno>
+            <idno type="STC">Thomason E1055_3</idno>
+            <idno type="STC">ESTC R207993</idno>
+            <idno type="PROQUEST">99867001</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867001e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168992)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1055[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect &amp; exact account of all the holy-daies in the yeare, together, with the reasons why they were set apart as festivals by the Church.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for I. Stafford, and F. Coles, and are to be sold at their shops near the White-Hart in Smithfield, and at the half-Bowle in the Old-Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan. 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Customs and practices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168992:1"/>
+            <p> A Perfect &amp; exact account Of all the HOLY-DAIES IN THE YEARE, Together, With the Reasons why they were set apart as Festivals by the Church.</p>
+            <q>
+               <bibl>Psal. 149. last verse.</bibl>
+               <p>
+                  <hi>This Honour have all the Sains.</hi>
+               </p>
+            </q>
+            <p>LONDON, Printed for <hi>I. Stafford,</hi> and <hi>F. Coles,</hi> and are to be sold at their Shops near the White-Hart in Smithfield, and at the half-Bowle in the Old-Bailey.</p>
+            <pb facs="tcp:168992:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168992:2"/>
+            <p>
+               <seg rend="decorInit">C</seg>HRISTMAS-Day, o called by the Pri<g ref="char:EOLhyphen"/>mitive Church, and signifying nothing more then the sending of the Saviour of the World in the fulnesse of time, for the accomplishing and perfecting Mans Salvation; and of late dayes is called the Nativity or Birth of our Lord God, being the five and twenti<g ref="char:EOLhyphen"/>eth day of <hi>December,</hi> which day was set apart for solmen thanksgiving, as the principall Festivall in the whole year, God being made the Son of Man, that Man might become the Son of God; he as upon this day humbled himself, that Man might be exalted; he took upon him the form so a Servant, that Man might be made the Image of God.</p>
+            <p>St. STEPHENS-Day is placed next to our Saviours Nati<g ref="char:EOLhyphen"/>vity, because he was the first Martyr that suffered for the Name of Christ; he was stoned at <hi>Jerusalem</hi> by the Jews; and next to our Saviour was the first Example that prayed for his enemies: his very Judges saw in him that innocency, that they apprehended his face did shine like the face of an An<g ref="char:EOLhyphen"/>gell.</p>
+            <pb n="2" facs="tcp:168992:3"/>
+            <p> St. JOHN's Day was assigned by the Church to follow in this joyfull Festivall, next to the first Martyr▪ because he was the beloved Disciple, and kept closest to our Saviour in all his sufferings; he was the Evangelist that writ most Divinely of our Saviours Incarnation; he likewise writ the three Epistles, and at last the Revelations called by his own Name, which were the Visions he saw in the Island of <hi>Patmos,</hi> it was repor<g ref="char:EOLhyphen"/>ted among the Disciples that he should never dye, he was by the cruell Jews throwne into a Copper of boyling Oyle, but miraculously escaped; it is said likewise that he had poyson gave him, but did not in the least injure him, however he dyed in the hundred and two year of his age, when he was hardly able to give any other advise to his Auditors, then Babes refrain from Idols: Little Children love one another.</p>
+            <p>INNOCENTS Day being the day that those innocent Mar<g ref="char:EOLhyphen"/>tyrs were made a sacrifice for King <hi>Herods</hi> fury, when he made a generall search for our Saviour, and in regard that the Wisemen told him there was a King born in his Ter<g ref="char:EOLhyphen"/>ritories, he resolved that all Childeren under three years old should be put to death, hoping thereby that our Saviour could not escape in so universall a massacre; in commemoration whereof this day was added to this Festivall of our Saviours birth.</p>
+            <p>New-Years Day, being the first day of <hi>January,</hi> it is so cal<g ref="char:EOLhyphen"/>led, because it begins the Year according to the ancient ac<g ref="char:EOLhyphen"/>compt, but it was made a Festivall, because it was the day of our Lord and Saviours Circumcision, being the eight day from his birth, by which he fulfilled the Law.</p>
+            <p>The Conversion of St. <hi>Paul</hi> being the twenty fifth of <hi>Ianu<g ref="char:EOLhyphen"/>ary</hi> was observed by the Greek Church as a great day but not taken notice of by our Church, there is no Collect for it; He was sent bound to <hi>Rome,</hi> and there beheaded, and milk slow<g ref="char:EOLhyphen"/>ed ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his neck instead of blood.</p>
+            <p>CANDLEMAS Day, the second day of <hi>Februury,</hi> was the Purification of the blessed Virgin; who then went into the Temple according to the Law, to return her pious thanksgi<g ref="char:EOLhyphen"/>ving
+<pb n="3" facs="tcp:168992:3"/> to the King of kings, who had safely delivered her of the Saviour of the World.</p>
+            <p>St. MATTHIAS the Apostle, he was chosen after the As<g ref="char:EOLhyphen"/>cention of our Saviour in he room of <hi>Iudas,</hi> the Son of perdition who betrayed the Lord of Life: This <hi>Matthias</hi> act<g ref="char:EOLhyphen"/>ed with the Apostles, and was Martyred therefore by the Jews.</p>
+            <p>LADY Day, or the Anuunciation of the blessed Virgin St. <hi>Mary,</hi> being the five and twentieth of <hi>March,</hi> was the day that the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngell declared to the Virgin <hi>Mary,</hi> that she had conceived with Child of the Son of God; and is full nine moneths from the 25. of <hi>December</hi> on which day our Saviour was born.</p>
+            <p>LENT was set apart by the Church as a fasting time in com<g ref="char:EOLhyphen"/>memoration of our Saviours fasting forty daies, and forty nights when he was tempted in the Wildernesse by the Devil.</p>
+            <p>GOOD-FRIDAY, being the Friday before <hi>Easter,</hi> on which day our Saviour suffered upon the Crosse, being cruci<g ref="char:EOLhyphen"/>fied by the Jews between two theeves, at the time when he began to die, the Sun withdrew himself, and would not be<g ref="char:EOLhyphen"/>hold so sad a thing as the Tragedy of the Son of God; the Temple rent its Vaile; the dead arose &amp; walked in the streets, and a Heathen observing the same, cryed out, either the God of Nature now suffers, or else the world shall suddenly be dis<g ref="char:EOLhyphen"/>solved.</p>
+            <p>EASTER commonly called the Feast of the Passeover, was an ancient Feast among the Jews; but is observed by the Christians, because on <hi>Easter</hi> Sunday early in the morning our Saviour arose again from the grave, having thereby conque<g ref="char:EOLhyphen"/>red both Death and Hell.</p>
+            <p>St. MARKE the Evangelist, who writ one of the Gospels of our Lord and Saviour Jesus Christ, and indeed though the shortest, yet he writ as full and copious as to matter, and substance as the best; he was also assistant to <hi>Paul</hi> and <hi>Bar<g ref="char:EOLhyphen"/>nabas</hi> as a Secretary to write their Epistles to the Churches; he was Martyred for the name of Jesus.</p>
+            <pb n="4" facs="tcp:168992:4"/>
+            <p> St <hi>Philip</hi> and St. <hi>Iacob</hi> being the first day of May, were two of the Apostles of our Lord.</p>
+            <p>ASCENSION day, set apart by the Church as the day when our Saviour took his Disciples to Mount <hi>Olivet,</hi> and from them was taken out of their sights in a cloud, and ascended up into Heaven after he had led captivity captive.</p>
+            <p>WHITSUNDAY by the Jews called the Feast of Pentecost was observed as the time when our Saviour fulfilled the Pro<g ref="char:EOLhyphen"/>mise to his Disciples in sending the Holy Ghost unto them af<g ref="char:EOLhyphen"/>ter his departure which hapned as upon Whitsunday, when they were all met together, the Spirit appearing upon their heads in cloven tongues, whereby they were immediately in<g ref="char:EOLhyphen"/>spired, and were able to preach Christ Jesus in all languages.</p>
+            <p>The Nativity of <hi>Iohn Baptist</hi> being the 24. of June; he was our Saviours Herald to proclaim his comming, and the Morning star to give notice that the Son of righteousnesse was arising with healing in his wings, he was imprisoned by the command of King <hi>Herod,</hi> &amp; because St. <hi>Iohn</hi> had been too plain with him in his advertisments &amp; doctrins, to please the daun<g ref="char:EOLhyphen"/>cing, fancy of a yong Strumpet, he was beheaded in prison, and his head was brought as a present to her in a Charger.</p>
+            <p>St. PETER one of the eminnetest of the Apostles for his love and faith in Jesus Christ, he boasting too much in his owne confidence denyed our Saviour and forswore that he knew him; but afterwards his penitence was eminent; he wrote two Epistles to the Church, and according to the Prophesie of our Saviour he was Martyred, being crucified <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s our Saviour had been, but not in the same manner; for he would be crucified with his head downward, because he thought himself unwor<g ref="char:EOLhyphen"/>thy to dye with his head upward as our Saviour had done.</p>
+            <p>St. JAMES was one of the Apostles of our Lord and Sa<g ref="char:EOLhyphen"/>viour; he was eminent, for being one that our Saviour affect<g ref="char:EOLhyphen"/>ed, and was more conversant with him, then the rest of the Apostles; he writ an Epistle to the Church called by his own Name, and afterwards continuing an Asserter, and a Preacher of Jesus Christ, who dyed at <hi>Ierusalem,</hi> and rose again from
+<pb n="5" facs="tcp:168992:4"/> the dead, he was Martyred for the same sealing that Doctrine with his blood.</p>
+            <p>St. BARTOLMEW, was likewise an Apostle, we find none of his Epistles which he wrought to the Churches, nor is he much mentioned for any thing that he was famous for, in the Acts of the Apostles, but however he dyed a Martyr, for his professing, and teaching the name of Jesus.</p>
+            <p>St. MATTHEW he was a Publican, and sat at the receipt of custome when our Saviour called him; he was chosen an Apostle, and afterwards writ that Evangelical Gospell and the 20. of September is assigned by the Church, for the memo<g ref="char:EOLhyphen"/>ry of his Martyrdom.</p>
+            <p>St. MICHAEL the Archangel commonly called <hi>Michaelmas</hi> day being the 29. of September, we find mention of him in the Epistle of St. <hi>Iude</hi> the 9. v. where it is said that St. <hi>Michael</hi> the Archangell contended with the Devil about the body of <hi>Mo<g ref="char:EOLhyphen"/>ses:</hi> this was kept as a great Festivall by the Primitive Church.</p>
+            <p>St LUKE by his Profession was a Physitian, but a very learned and able writer, he was an observer of our Saviours Life, and as an Evangelist writ one of the Gospels, and likewise seeing the famous miracles that were wrought in the Name of Jesus, he writ likewise the book called the Acts of the Apostles: I read nothing of the manner of his death.</p>
+            <p>St. SIMON, and St. JUDE the one called <hi>Simon Zelotes</hi> to distinguish him from <hi>Simon Peter,</hi> the other called <hi>Iude</hi> or <hi>Iu<g ref="char:EOLhyphen"/>das,</hi> he was called brother of <hi>Iames,</hi> to distinguish him from <hi>Iudas Iscariot</hi> that betrayed the Lord of Life: he writ the E<g ref="char:EOLhyphen"/>pistle called St. <hi>Iude:</hi> they are recorded in Ecclesiastical Histo<g ref="char:EOLhyphen"/>ries as Martyrs.</p>
+            <p>ALL SAINTS day was a general day set apart by the Church Universally to all the Saints: it is appointed to be kept on the 1, of Novem. and was kept very strictly by the Primi. Church.</p>
+            <p>Gunpowder TREASON being the 5▪ of Novem. was made a day of thanksgiving by an Act of Parliament, in the year 1605: for the miraculous preservation of King <hi>Iames,</hi> and the Parlia<g ref="char:EOLhyphen"/>ment from the Popish conspiracie, which had laid a Plot of
+<pb n="6" facs="tcp:168992:5"/> Gunpowder underneath the Parliament House to have blown them all up as they were sitting.</p>
+            <p>St. ANDREW was likewise one of the Apostles of our Lord and Saviour; he writ nothing that we find extant, to any of the Churches, but no doubt but he was a great Preacher of the Name of Jesus because we find him Recorded in Ecclesiasticall Histories for a Martyr, who was run through with a spear by the Jews.</p>
+            <p>St. THOMAS was another, and not the least of the Apostles, he was not very eminent for any singular account, when our Saviour rose from the dead, he mistrusted that it was really the same Jesus, until he felt the print of the nailes in his hands, and the hole made by the spear in his side, which confirmed his Faith so much, that he died as a Martyr for the profession thereof.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>A single Sheet of <hi>Christus natus est,</hi> to be sold by the said <hi>Iohn Stafford.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
